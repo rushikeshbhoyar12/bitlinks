@@ -33,7 +33,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*  --it will ignore all env files, you can specify which env files to ignore or not ignore by using .env.local, .env.development, etc. and adding them to the .gitignore file
-
+.env.local
 # vercel
 .vercel
 
